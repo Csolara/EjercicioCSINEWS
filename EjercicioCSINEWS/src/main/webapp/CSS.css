@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+.CSI{
+	font-size: 7em;
+	font-family: 'Trebuchet MS';
+	transform: translateY(-50px);
+}
+.tabla{
+	transform: translateX(120px);
+}
+.tabla1{
+	background-color: #A5C1DD;
+	width: 80%;
+	border: solid black;
+	height: 150px;
+}
+.tabla2{
+	background-color: #30F3F3;
+	width: 80%;
+	border: solid black;
+	display: flex;
+}
+.tabla3{
+	width: 80%;
+	border: solid black;
+	height: 400px;
+	display: flex;
+}
+.tabla4{
+	background-color: grey;
+	width: 80%;
+	border: solid black;
+	height: 70px;
+	font-size: 2em;
+}
+.abajo{
+	transform: translateY(1px);
+}
+.boton1{
+	border-radius: 1em;
+	background-color: darkorange;
+	width: 20%;
+	height: 40px;
+	font-size: 1.3em;
+	border: solid black;
+	transform: translateX(120px);
+}.boton2{
+	border-radius: 1em;
+	background-color: darkorange;
+	width: 20%;
+	height: 40px;
+	font-size: 1.3em;
+	border: solid black;
+	transform: translateX(350px);
+}
+.tablaA{
+	width: 28%;
+	border: solid black;
+	height: 270px;
+	transform: translateY(20px) translateX(80px);
+	font-size: 2.8em;
+	overflow: auto;
+}
+.tablaB{
+	width: 28%;
+	border: solid black;
+	height: 270px;
+	transform: translateY(25px) translateX(230px);
+	font-size: 2.5em;
+	overflow: auto;
+}
+.tablaC{
+	width: 12%;
+	border: solid black;
+	height: 340px;
+	transform: translateY(10px) translateX(270px);
+}
+.arriba{
+	transform: translateY(-130px) translateX(15px);
+	font-size: 2.8em;
+}
